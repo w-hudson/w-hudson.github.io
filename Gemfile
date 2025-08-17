@@ -2,4 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "github-pages"
+gem 'jekyll'
+gem 'minimal-mistakes-jekyll'
+gem 'jekyll-relative-links'
+gem 'jekyll-include-cache'
