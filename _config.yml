@@ -3,19 +3,5 @@ collections:
     output: true
 plugins:
   - jekyll-relative-links
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+  - jekyll-include-cache
+theme: minimal-mistakes-jekyll
