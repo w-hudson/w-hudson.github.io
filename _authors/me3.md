@@ -1,5 +1,5 @@
 ---
-short_name: Yo
+short_name: yo
 name: Hey You
 position: Gofer
 ---

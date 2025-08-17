@@ -1,6 +1,8 @@
 collections:
   authors:
     output: true
+plugins:
+  - jekyll-relative-links
 
 defaults:
   - scope:

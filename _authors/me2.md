@@ -1,5 +1,5 @@
 ---
-short_name: Captain
+short_name: captain
 name: BJ Hudson
 position: minion
 ---
