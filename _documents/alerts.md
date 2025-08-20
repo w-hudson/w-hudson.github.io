@@ -2,7 +2,7 @@
 The **Alerts** screen is where most of the work in OurProduct is done. The main view lists the currently open Alerts based on any default search filtering criteria you have selected. For information on individual Alerts, see [Working with individual Alerts](#working-with-individual-alerts).
 
 ## Alerts interface
-![Alerts main screen](https://github.com/w-hudson/docs/blob/d3f082cec0e85301dd8fd3a71bd8f1f1d96ceb3a/img/placeholder.png)
+![Alerts main screen](_documents\images\placeholder.png)
 
 1. **Incident count**: The total number of incidents that match the current filter in the search bar. If the filter is blank, this will show the total number of Alerts across all organizations where the current user is a member.
 2. **Bulk Actions**: This feature allows a user to take bulk actions on all of the Alerts displayed based on the current search filter settings. The available bulk actions are **CLOSE** and **ASSIGN TO ME**. If you use the bulk close action, you will be prompted to confirm before the incidents are closed.
