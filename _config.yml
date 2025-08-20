@@ -1,7 +1,0 @@
-collections:
-  authors:
-    output: true
-plugins:
-  - jekyll-relative-links
-  - jekyll-include-cache
-theme: minimal-mistakes-jekyll
