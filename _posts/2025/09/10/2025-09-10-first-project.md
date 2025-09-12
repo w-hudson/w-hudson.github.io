@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jekyll"
-subtitle:  "Create your own page with Jekyll"
-date:   2018-02-07 18:40:47 +0100
-poster: "portfolio-1.jpg"
+title:  "test"
+subtitle:  "test project"
+date:   2025-09-10
+poster: "placeholder.png"
 ---
 
 Etiam nec nisi magna. Maecenas vel pulvinar risus. Aliquam erat volutpat. Etiam nec nibh at tortor faucibus venenatis vel eget sapien. Donec iaculis vulputate justo, vel laoreet sem viverra a. Morbi vel arcu ante. Cras at magna eget purus pharetra lobortis.
